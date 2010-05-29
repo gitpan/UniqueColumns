@@ -1,4 +1,4 @@
-package UniqueColumns; 
+package Text::CSV::UniqueColumns; 
 
 use strict;
 use warnings;
